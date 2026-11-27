@@ -1,0 +1,1 @@
+Файл проєкту Factory Method
